@@ -2,7 +2,7 @@
   "basics": {
     "name": "Luciano Fiandesio",
     "label": "Software craftsman",
-    "picture": "",
+    "picture": "https://avatars2.githubusercontent.com/u/300784?v=3&s=460",
     "email": "luciano@fiandes.io",
     "phone": "+41 76 582 11 58",
     "website": "http://lucianofiandesio.com",
@@ -15,14 +15,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "github",
+        "username": "luciano-fiandesio",
+        "url": "https://github.com/luciano-fiandesio"
       }
     ]
   },
@@ -46,6 +41,7 @@
       "position": "Lead Developer",
       "website": "http://bauapp.co/",
       "startDate": "2014-01-01",
+      "endDate": "2014-09-01",
       
       "summary": "Designed and implemented REST API consumed by mobile devices for ground-breaking tourism application. The implementation includes OAUTH2-based security",
       "highlights": [
@@ -259,7 +255,7 @@
   ],
   "languages": [
     {
-      "language": "Italia",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
