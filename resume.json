@@ -1,0 +1,275 @@
+{
+  "basics": {
+    "name": "Luciano Fiandesio",
+    "label": "Software craftsman",
+    "picture": "",
+    "email": "luciano@fiandes.io",
+    "phone": "+41 76 582 11 58",
+    "website": "http://lucianofiandesio.com",
+    "summary": "I am a software architect with 18+ years of professional experience. I have worked for large multinationals and small companies in a number of industries. I usually act as software architect, technical project manager but I’m always happy to get my hands dirty. I am a keen learner and have a passion for software craftsmanship. I’m the co-author of the book “Groovy 2 Cookbook”, published by Packt and I’m currently writing a book about Dropwizard (REST Framework).",
+    "location": {
+      
+      "city": "Zurich",
+      "countryCode": "Switzerland"
+      
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": ""
+      },
+      {
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.com/dandymusicnl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "UBS AG",
+      "position": "Full Stack Developer",
+      "website": "http://www.ubs.com",
+      "startDate": "2014-10-01",
+      
+      "summary": "Lead the development of an internal greenfield project for the bank's compliance department. The project was delivered in time and on budget",
+      "highlights": [
+        "Designed the software architecture for the web application, both on the front-end and back-end",
+        "Mentored a small team of developers to Javascript best practices (modules, encapsulation, performances)",
+        "Added several new modules to the corporate Java framework, including XSS protection for Spring MVC applications, cookie-based session persistence, JS/CSS resource compression and minification",
+        "Technologies: Spring 4, Hibernate, jQuery, Lo-Dash, Git, Guava, Junit, Mockito"
+      ]
+    },
+    {
+      "company": "Bauapp",
+      "position": "Lead Developer",
+      "website": "http://bauapp.co/",
+      "startDate": "2014-01-01",
+      
+      "summary": "Designed and implemented REST API consumed by mobile devices for ground-breaking tourism application. The implementation includes OAUTH2-based security",
+      "highlights": [
+        "Technologies: Dropwizard, MongoDB, Elastic Search"
+      ]
+    },
+    {
+      "company": "Kuoni",
+      "position": "Lead Developer",
+      "website": "http://kuoni.com/",
+      "startDate": "2013-09-01",
+      "endDate": "2014-03-01",
+      
+      "summary": "Worked in a team responsible for delivering the server-side implementation of the new group reservation system of Kuoni, a world-leading travel company.",
+      "highlights": [
+        "Introduced the team to REST design best practices",
+        "Implemenented several core components, including a rules-engine based on Drools",
+        "Helped the Devops team with JVM tuning and optimization",
+        "Designed and implemented a stress-test tool for producing load on the REST API based on Groovy",
+        "Technologies: JAX-RS, Hibernate, Groovy, Drools"
+      ]
+    },
+    {
+      "company": "Aestas IT",
+      "position": "Partner",
+      "website": "http://aestasit.com/",
+      "startDate": "2011-07-01",
+      "endDate": "2013-09-01",
+      
+      "summary": "Coder, software architect and business developer. Focused on Java/Groovy/Scala development, automation (Puppet, Jenkins, Gradle), JVM tuning",
+      "highlights": [
+        "Some of our clients: Accenture (Finland), 4Finance (Latvia), 7Network (Finland), Poste Italiane (Italia), Netcompany (Denmark), Nespresso (Switzerland)",
+        "Technologies: too many to mention"
+      ]
+    },
+    {
+      "company": "TDC",
+      "position": "Lead Architect",
+      "website": "http://tdc.dk/",
+      "startDate": "2010-11-01",
+      "endDate": "2012-12-01",
+      
+      "summary": "Complete technical redesign of the largest Danish Telco customer portal. Lead a 12 devs team, project was delivered on time and budget",
+      "highlights": [
+        "Main architect for TDC customers portal back-end system",
+        "Prototyped and wrote several core components of the back-end, based on Typesafe Akka",
+        "Solved numerous technical challenges related to performances - which included the introduction of several layers of cache, parallel execution of back-end systems calls, JVM tuning",
+        "Mentored the team (over 20 devs) on several technologies and best practices",
+        "The company I was working with, won the \"TDC supplier award\" for two consecutive years",
+        "Technologies: RESTEasy, Akka, Scala, Spring, EHCache, Camel, Oracle OSB 11g, SoapUI"
+      ]
+    },
+    {
+      "company": "SKAT",
+      "position": "Lead Architect",
+      "website": "http://skat.dk/",
+      "startDate": "2010-01-01",
+      "endDate": "2010-12-01",
+      
+      "summary": "Designed and oversaw the implementation of the Danish Tax Office SOA initiative for Vehicle Registration. Mentored a team of 20+ engineers in Java development, testing and coding best practices",
+      "highlights": [
+        "Seamlessly integrated old Bea Weblogic web services runtime with Spring 3, Hibernate and Drools Rule engine",
+        "Developed strategies for Aqualogic Service Bus code generation and efficient deployment of ALSB artifacts",
+        "Solved numerous technical challenges related to performances - which included the introduction of several layers of cache, parallel execution of back-end systems calls, JVM tuning",
+        "MMentored a team of 20+ engineers in Java development, testing and coding best practices",
+        "Introduced continuous integration (Hudson) and several layers of testing, using Junit, SoapUi and Selenium for the Portal testing",
+        "Technologies: Java, Groovy, JBoss Drools, Oracle ALBPM, Oracle OSB, Spring, Hibernate,  SoapUI, Selenium"
+      ]
+    },
+    {
+      "company": "BNP Paribas",
+      "position": "Tech Lead",
+      "website": "http://www.bnpparibas.com/",
+      "startDate": "2009-01-01",
+      "endDate": "2009-12-31",
+      
+      "summary": "",
+      "highlights": [
+        "Seamlessly integrated old Bea Weblogic web services runtime with Spring 3, Hibernate and Drools Rule engine",
+        "Developed strategies for Aqualogic Service Bus code generation and efficient deployment of ALSB artifacts",
+        "Solved numerous technical challenges related to performances - which included the introduction of several layers of cache, parallel execution of back-end systems calls, JVM tuning",
+        "MMentored a team of 20+ engineers in Java development, testing and coding best practices",
+        "Introduced continuous integration (Hudson) and several layers of testing, using Junit, SoapUi and Selenium for the Portal testing",
+        "Technologies: Java, Groovy, JBoss Drools, Oracle ALBPM, Oracle OSB, Spring, Hibernate, SoapUI, Selenium"
+      ]
+    },
+    {
+      "company": "Sonofon/Cybercity",
+      "position": "SOA Architect",
+      "website": "https://www.telenor.dk/",
+      "startDate": "2008-04-01",
+      "endDate": "2008-12-01",
+      
+      "summary": "Part of the architectural team responsible for the initial adoption of a company wide Service Oriented Architecture in Sonofon (part of Telenor Group)",
+      "highlights": [
+        "Designed and developed several billing related (Geneva) end to end services using JBoss Soa Platform (ESB and jBPM). The initial services design and implementation will be used as a blue print for the creation of new services.",
+        "Improved software engineering foundations by prioritizing fully-automated build/package/deploy, product versioning, continuous integration and a rounded SOA-compatible automated test approach.",
+        "Technologies: JBoss SOA Stack, Seam, EJB 3.0, JAXB, TestNg, Maven, Hudson"
+      ]
+    },
+    {
+      "company": "STC",
+      "position": "Architect",
+      "website": "http://www.stc.com.sa",
+      "startDate": "2007-07-01",
+      "endDate": "2008-04-01",
+      
+      "summary": "Lead architect on the Saudi Telecom Company main customer portal. Successfully lead a team of 20+ developers to roll out in time and on budget the second largest portal in the Middle East",
+      "highlights": [
+        "Managed the design, the implementation and the deployment of the STC customer portal, reporting to the company's executive management",
+        "Worked shoulder-to-shoulder with developers to integrate Bea Portal framework with Spring + Hibernate and other open source frameworks. Mentored the team on code craftsmanship, test driven development and Bea Portal best practices",
+        "Fought back and resolved daily scalability issues (JVM, database, code, integration, poor design of the Bea platform) due to large user base (17 million customers, 3.5m registered users)",
+        "Technologies: Bea Weblogic Portal 10, Ant, Junit, Hudson, Spring, JRockit Mission Control"
+      ]
+    },
+    {
+      "company": "BEA Professional Services",
+      "position": "BEA Architect",
+      "website": "http://www.bea.com",
+      "startDate": "2006-10-01",
+      "endDate": "2007-07-01",
+      
+      "summary": "Architecture and development of enterprise integration solutions utilizing the BEA SOA stack: AquaLogic Service Bus (ALSB), AquaLogic Enterprise Repository (ALER) and AquaLogic BPM (ALBPM)",
+      "highlights": [
+        "Technologies: Bea Weblogic Server 9.2, Bea Portal 9.2, Bea Workshop 9.1, AquaLogic Service Bus 2.5/6, Aqualogic Enterprise Repository and BMP, Spring 2.0, Ant, JUnit, JMock, Oracle 9i, Subversion"
+      ]
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "Roma \"Tre\" University of Rome",
+      "area": "Literature and Philosophy",
+      "studyType": "Master Degree",
+      "endDate": "1998-01-01"
+      
+    }
+  ],
+  "publications": [
+    {
+      "name": "Groovy 2 Cookbook",
+      "publisher": "Packt",
+      "releaseDate": "2013-10-01",
+      "website": "http://d.pr/2eS0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Fluent",
+      "keywords": [
+        "Java",
+        "Groovy",
+        "Scala",
+        "Javascript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Familiar",
+      "keywords": [
+        "Erlang",
+        "Clojure"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Fluent",
+      "keywords": [
+        "React",
+        "Gulp",
+        "ES6",
+        "Flux",
+        "Ember"
+      ]
+    },
+    {
+      "name": "JEE and SOA",
+      "level": "Fluent",
+      "keywords": [
+        "Oracle Weblogic",
+        "Oracle OSB",
+        "JBoss",
+        "Tomcat"
+      ]
+    },
+    {
+      "name": "Cloud and Devops",
+      "level": "Fluent",
+      "keywords": [
+        "AWS",
+        "Puppet",
+        "Ansible",
+        "Tomcat"
+      ]
+    },
+    {
+      "name": "NoSQL",
+      "level": "Fluent",
+      "keywords": [
+        "MongoDB",
+        "Redis",
+        "Cassandra",
+        "(some) Hadoop"
+      ]
+    }
+
+
+
+  ],
+  "languages": [
+    {
+      "language": "Italia",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    }
+
+  ]
+}
