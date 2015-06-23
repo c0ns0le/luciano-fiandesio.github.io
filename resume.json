@@ -45,7 +45,7 @@
       
       "summary": "Designed and implemented REST API consumed by mobile devices for ground-breaking tourism application. The implementation includes OAUTH2-based security",
       "highlights": [
-        "Technologies: Dropwizard, MongoDB, Elastic Search"
+        "Technologies: Dropwizard, MongoDB, Elasticsearch"
       ]
     },
     {
@@ -246,6 +246,8 @@
         "MongoDB",
         "Redis",
         "Cassandra",
+        "Elasticsearch",
+        "Solr"
         "(some) Hadoop"
       ]
     }
