@@ -201,14 +201,6 @@
       ]
     },
     {
-      "name": "Programming Languages",
-      "level": "Familiar",
-      "keywords": [
-        "Erlang",
-        "Clojure"
-      ]
-    },
-    {
       "name": "Web Development",
       "level": "Fluent",
       "keywords": [
@@ -226,7 +218,9 @@
         "Oracle Weblogic",
         "Oracle OSB",
         "JBoss",
-        "Tomcat"
+        "Gradle",
+        "Maven",
+        "Jenkins"
       ]
     },
     {
