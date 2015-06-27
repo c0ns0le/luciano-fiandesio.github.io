@@ -8,16 +8,14 @@
     "website": "http://lucianofiandesio.com",
     "summary": "I am a software architect with 18+ years of professional experience. I have worked for large multinationals and small companies in a number of industries. I usually act as software architect, technical project manager but I’m always happy to get my hands dirty. I am a keen learner and have a passion for software craftsmanship. I’m the co-author of the book “Groovy 2 Cookbook”, published by Packt and I’m currently writing a book about Dropwizard (REST Framework).",
     "location": {
-      
       "city": "Zurich",
       "countryCode": "Switzerland"
-      
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "Github",
         "username": "luciano-fiandesio",
-        "url": "https://github.com/luciano-fiandesio"
+        "url": "github.com/luciano-fiandesio"
       }
     ]
   },
@@ -27,7 +25,6 @@
       "position": "Full Stack Developer",
       "website": "http://www.ubs.com",
       "startDate": "2014-10-01",
-      
       "summary": "Lead the development of an internal greenfield project for the bank's compliance department. The project was delivered in time and on budget",
       "highlights": [
         "Designed the software architecture for the web application, both on the front-end and back-end",
@@ -42,7 +39,6 @@
       "website": "http://bauapp.co/",
       "startDate": "2014-01-01",
       "endDate": "2014-09-01",
-      
       "summary": "Designed and implemented REST API consumed by mobile devices for ground-breaking tourism application. The implementation includes OAUTH2-based security",
       "highlights": [
         "Technologies: Dropwizard, MongoDB, Elasticsearch"
@@ -54,7 +50,6 @@
       "website": "http://kuoni.com/",
       "startDate": "2013-09-01",
       "endDate": "2014-03-01",
-      
       "summary": "Worked in a team responsible for delivering the server-side implementation of the new group reservation system of Kuoni, a world-leading travel company.",
       "highlights": [
         "Introduced the team to REST design best practices",
@@ -70,7 +65,6 @@
       "website": "http://aestasit.com/",
       "startDate": "2011-07-01",
       "endDate": "2013-09-01",
-      
       "summary": "Coder, software architect and business developer. Focused on Java/Groovy/Scala development, automation (Puppet, Jenkins, Gradle), JVM tuning",
       "highlights": [
         "Some of our clients: Accenture (Finland), 4Finance (Latvia), 7Network (Finland), Poste Italiane (Italia), Netcompany (Denmark), Nespresso (Switzerland)",
@@ -83,7 +77,6 @@
       "website": "http://tdc.dk/",
       "startDate": "2010-11-01",
       "endDate": "2012-12-01",
-      
       "summary": "Complete technical redesign of the largest Danish Telco customer portal. Lead a 12 devs team, project was delivered on time and budget",
       "highlights": [
         "Main architect for TDC customers portal back-end system",
@@ -100,7 +93,6 @@
       "website": "http://skat.dk/",
       "startDate": "2010-01-01",
       "endDate": "2010-12-01",
-      
       "summary": "Designed and oversaw the implementation of the Danish Tax Office SOA initiative for Vehicle Registration. Mentored a team of 20+ engineers in Java development, testing and coding best practices",
       "highlights": [
         "Seamlessly integrated old Bea Weblogic web services runtime with Spring 3, Hibernate and Drools Rule engine",
@@ -117,7 +109,6 @@
       "website": "http://www.bnpparibas.com/",
       "startDate": "2009-01-01",
       "endDate": "2009-12-31",
-      
       "summary": "",
       "highlights": [
         "Seamlessly integrated old Bea Weblogic web services runtime with Spring 3, Hibernate and Drools Rule engine",
@@ -134,7 +125,6 @@
       "website": "https://www.telenor.dk/",
       "startDate": "2008-04-01",
       "endDate": "2008-12-01",
-      
       "summary": "Part of the architectural team responsible for the initial adoption of a company wide Service Oriented Architecture in Sonofon (part of Telenor Group)",
       "highlights": [
         "Designed and developed several billing related (Geneva) end to end services using JBoss Soa Platform (ESB and jBPM). The initial services design and implementation will be used as a blue print for the creation of new services.",
@@ -148,7 +138,6 @@
       "website": "http://www.stc.com.sa",
       "startDate": "2007-07-01",
       "endDate": "2008-04-01",
-      
       "summary": "Lead architect on the Saudi Telecom Company main customer portal. Successfully lead a team of 20+ developers to roll out in time and on budget the second largest portal in the Middle East",
       "highlights": [
         "Managed the design, the implementation and the deployment of the STC customer portal, reporting to the company's executive management",
@@ -241,7 +230,7 @@
         "Redis",
         "Cassandra",
         "Elasticsearch",
-        "Solr"
+        "Solr",
         "(some) Hadoop"
       ]
     }

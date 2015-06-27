@@ -1,0 +1,1 @@
+resume export resume -t elegant --format html;open resume.html
