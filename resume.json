@@ -14,8 +14,12 @@
     "profiles": [
       {
         "network": "Github",
-        "username": "luciano-fiandesio",
-        "url": "github.com/luciano-fiandesio"
+        "url": "https://github.com/luciano-fiandesio"
+      },
+      {
+        "network": "linkedin",
+        "username": "info@lucianofiandesio.com",
+        "url": "https://ch.linkedin.com/in/ishipsoftware"
       }
     ]
   },
